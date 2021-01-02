@@ -1,0 +1,27 @@
+Tables
+
+League
+  - id
+  - title
+  - users
+
+User
+  - id
+  - username
+
+Contest
+  - id
+  - title
+  - description
+  - start date
+  - end date
+  - winner
+
+Vote
+  - id
+  - score
+
+Song
+  - id
+  - url
+  - title
